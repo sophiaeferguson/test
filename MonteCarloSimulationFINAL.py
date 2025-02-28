@@ -1,8 +1,7 @@
-# Install Streamlit
-!pip install streamlit
 
-# Jupyter Notebook as Python
-!pip install pyngrok
+
+
+
 
 # Import Libraries
 import streamlit as st
