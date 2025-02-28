@@ -1,4 +1,5 @@
-
+pip install yfinance
+pip install streamlit
 
 
 
