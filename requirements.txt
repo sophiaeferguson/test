@@ -1,0 +1,9 @@
+streamlit
+numpy
+yfinance
+pandas
+matplotlib.pyplot 
+seaborn 
+statsmodels.api
+requests
+beautifulsoup4
